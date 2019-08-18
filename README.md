@@ -4,7 +4,6 @@ I have used a Naive Bayes classifier for this project.
 But i recommend someone using CNN for this as it would give you an accuracy upto 97-99%
 This is the classification report obtained in my case. 
                  precision    recall  f1-score   support
-
         Arts       0.90      0.83      0.86     42318
     Business       0.88      0.79      0.83     45775
    Computers       0.84      0.81      0.82     19105
