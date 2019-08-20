@@ -8,7 +8,8 @@ macro avg     0.76    0.81    0.78    239171
 weighted avg    0.83    0.82    0.82    239171
 
  
-
+Sample output :
+Suppose you enter the given site , the output would be numbered from the Availble classes.
 Enter the site you want to classify : https://www.aihackathon.in/
-[1]
+[1] (Computer)
 
