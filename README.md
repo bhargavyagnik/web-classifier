@@ -1,11 +1,13 @@
 # web-classifier
 Web page Classifier using the DMOZ data.
-I have used a Naive Bayes classifier for this project.
-But i recommend someone using CNN for this as it would give you an accuracy upto 97-99%
-This is the classification report obtained in my case. 
-micro avg     0.82    0.82    0.82    239171
-macro avg     0.76    0.81    0.78    239171
-weighted avg    0.83    0.82    0.82    239171
+
+The basis for webpage Classification is a pipeline for the following Steps: 
+1. Count Vectorizer
+2. TF-IDF 
+3. Naive Bayes 
+
+There are Different approaches one may try to get the results like you may try CNN , or some other model or May try different Algorithms in Naive Bayes techniques like 
+- 
 
  
 Sample output :
