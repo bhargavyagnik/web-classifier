@@ -4,10 +4,11 @@ Web page Classifier using the DMOZ data.
 The basis for webpage Classification is a pipeline for the following Steps: 
 1. Count Vectorizer
 2. TF-IDF 
-3. Naive Bayes 
+3. Naive Bayes
 
-There are Different approaches one may try to get the results like you may try CNN , or some other model or May try different Algorithms in Naive Bayes techniques like 
-- 
+There are Different approaches one may try to get the results like you may try CNN , or some other model or May try different Algorithms in Naive Bayes techniques like
+
+![](https://drive.google.com/file/d/1aNNn6JbVjDfQwisb7M4DhBNc7oNbmATi/view)
 
  
 Sample output :
